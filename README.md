@@ -1,6 +1,6 @@
-## 📽️ VTube Backend – Project Overview
+## 📽️ YTube Backend – Project Overview
 
-**VTube Backend** is a foundational backend project built to replicate the core functionalities of a video-sharing platform like YouTube. This is my **first backend project**, created with the purpose of learning and understanding how a backend system truly works—from user authentication to complex routing, controller logic, and database integration.
+**YTube Backend** is a foundational backend project built to replicate the core functionalities of a video-sharing platform like YouTube. This is my **first backend project**, created with the purpose of learning and understanding how a backend system truly works—from user authentication to complex routing, controller logic, and database integration.
 
 ### 🎯 Project Goal
 
